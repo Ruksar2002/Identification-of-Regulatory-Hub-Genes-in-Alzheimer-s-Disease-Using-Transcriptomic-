@@ -1,0 +1,2 @@
+# Identification-of-Regulatory-Hub-Genes-in-Alzheimer-s-Disease-Using-Transcriptomic-
+Transcriptomic and network-based analysis of Alzheimer’s disease using RNA-seq dataset GSE122063. Includes DEG analysis, PCA, volcano plots, heatmaps, STRING-based PPI network construction, centrality analysis, and identification of regulatory hub genes associated with synaptic dysfunction, neuroinflammation, and neurodegeneration.
